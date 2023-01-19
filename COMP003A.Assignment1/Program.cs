@@ -9,7 +9,7 @@ namespace COMP003A.Assignment1
         static void Main(string[] args)
         {
             Console.WriteLine("My name is Jovani Benavides");
-            Console.WriteLine("Age:20\n");
+            Console.WriteLine("Age:20");
             Console.WriteLine("Birth Month:December");
             Console.WriteLine("Birth Year: 2002");
             Console.WriteLine("Favorite Color: Blue");
